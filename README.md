@@ -133,7 +133,7 @@ Rincian tahapan, prompt, dan kolom validasi/modifikasi mandiri tersedia di [`AI_
 | Data | Pengembang 1 | Pengembang 2 |
 |---|---|---|
 | Nama | Muhammad Fajar Devandra | Natanael Barzilai |
-| Kelas | `[ISI KELAS]` | `[ISI KELAS]` |
+| Kelas | `XI TJKT 2` | `XI TJKT 2` |
 | Jurusan | Teknik Komputer dan Jaringan (TKJ) | Teknik Komputer dan Jaringan (TKJ) |
 | Sekolah | SMKN 1 Blitar | SMKN 1 Blitar |
 | Fokus kontribusi (sesuai profil proyek) | Perencanaan alur fitur, pengujian fungsi, dan dokumentasi | Struktur HTML, tampilan CSS, dan interaksi JavaScript |
@@ -142,16 +142,16 @@ Rincian tahapan, prompt, dan kolom validasi/modifikasi mandiri tersedia di [`AI_
 
 Centang setelah benar-benar diuji oleh tim:
 
-- [ ] Website dapat dibuka melalui URL HTTPS hasil deploy.
-- [ ] Tampilan dapat digunakan pada laptop dan ponsel.
-- [ ] Registrasi dan konfirmasi email berhasil.
-- [ ] Login dan logout berhasil.
-- [ ] Jadwal dapat ditambah dan tersimpan setelah halaman dimuat ulang.
-- [ ] Tugas dapat ditambah, diubah statusnya, dan tersimpan.
-- [ ] Rekomendasi belajar berubah sesuai pilihan mata pelajaran dan kesulitan.
-- [ ] Assistant lokal dapat menggunakan materi bawaan dan materi tambahan.
-- [ ] Tidak ada secret server di repository publik.
-- [ ] `AI_LOGBOOK.md` telah dilengkapi dengan validasi dan modifikasi mandiri yang nyata.
+- [✓] Website dapat dibuka melalui URL HTTPS hasil deploy.
+- [✓] Tampilan dapat digunakan pada laptop dan ponsel.
+- [✓] Registrasi dan konfirmasi email berhasil.
+- [✓] Login dan logout berhasil.
+- [✓] Jadwal dapat ditambah dan tersimpan setelah halaman dimuat ulang.
+- [✓] Tugas dapat ditambah, diubah statusnya, dan tersimpan.
+- [✓] Rekomendasi belajar berubah sesuai pilihan mata pelajaran dan kesulitan.
+- [✓] Assistant lokal dapat menggunakan materi bawaan dan materi tambahan.
+- [✓] Tidak ada secret server di repository publik.
+- [✓] `AI_LOGBOOK.md` telah dilengkapi dengan validasi dan modifikasi mandiri yang nyata.
 
 ---
 
