@@ -5,7 +5,7 @@
 **Alat AI:** ChatGPT  
 **Anggota tim:** Muhammad Fajar Devandra dan Natanael Barzilai  
 **Sekolah:** SMKN 1 Blitar — Teknik Komputer dan Jaringan (TKJ)  
-**Kelas:** `[ISI KELAS KEDUA ANGGOTA]`
+**Kelas:** XI TJKT 2
 
 > Dokumen ini disusun dari topik interaksi pengembangan SmartStudy yang tercatat selama diskusi dengan AI. Bagian **Validasi & Modifikasi Mandiri** sengaja disediakan untuk diisi atau dikoreksi oleh tim berdasarkan perubahan yang benar-benar kalian lakukan dan hasil pengujian nyata. Jangan mengklaim pengujian atau modifikasi yang belum dilakukan.
 
