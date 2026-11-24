@@ -1,6 +1,6 @@
 # SmartStudy — Asisten Belajar Pintar
 
-SmartStudy adalah website/PWA pendamping belajar yang dirancang untuk membantu pelajar SMA/SMK mengatur jadwal belajar, mencatat tugas, memperoleh rekomendasi strategi belajar, dan mempelajari materi melalui Assistant berbasis materi lokal.
+SmartStudy adalah website/PWA pendamping belajar yang dirancang untuk membantu pelajar SMA/SMK mengatur jadwal belajar, mencatat tugas, memperoleh rekomendasi strategi belajar, dan mempelajari materi melalui Assistant berbasis materi lokal. 
 
 ## 1. Latar Belakang dan Tujuan
 
