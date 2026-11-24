@@ -36,10 +36,10 @@ Tim mengembangkan website SmartStudy dengan halaman Dashboard, Jadwal Belajar, M
 
 **Validasi & Modifikasi Mandiri (diisi oleh tim):**
 
-- Ide/fitur yang dipilih oleh tim: `[JELASKAN FITUR YANG BENAR-BENAR DIPILIH]`
-- Ide AI yang diubah atau tidak digunakan: `[JELASKAN, ATAU TULIS JIKA TIDAK ADA]`
-- Alasan keputusan tim dan kaitannya dengan kebutuhan pelajar: `[ISI]`
-- Cara tim memvalidasi kebutuhan/ide: `[DISKUSI, OBSERVASI, UJI COBA, ATAU METODE YANG BENAR-BENAR DILAKUKAN]`
+- Ide/fitur yang dipilih oleh tim: `Login/Register, Jadwal Belajar, Manajemen Tugas, Rekomendasi Belajar, Pergantian Tema Gelap dan Terang, Install Aplikasi`
+- Ide AI yang diubah atau tidak digunakan: `Menu Assistant yang sebelumnya menggunakan ai lokal diganti dengan tiga menu yaitu ringkas materi, latihan soal, dan materi yang bisa dipelajari dan ditambah materi pribadi`
+- Alasan keputusan tim dan kaitannya dengan kebutuhan pelajar: `Karena jika menggunakan ai lokal maka jawaban akan terbatas maka dari itu kami memutuskan untuk mengganti dengan tiga menu agar pelajar lebih mudah untuk menyesuaikan dengan kebutuhannya`
+- Cara tim memvalidasi kebutuhan/ide: `Kami memulai dengan diskusi kemudian setelah kami membuat website/ aplikasinya kami meminta teman-teman kami untuk mencobanya dan kata teman kami semua fitur sudah membantu dan sesuai dengan kebutuhan pelajar`
 
 ## Tahap 2 — Penyusunan Kerangka Kode (Scaffolding)
 
